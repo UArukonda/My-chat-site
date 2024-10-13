@@ -1,2 +1,10 @@
 You are now connected to database "chatapp_dev_db" as user "uarukonda".
-You are now connected to database "chatapp_test_db" as user "uarukonda".
+               List of relations
+ Schema |       Name       | Type  |   Owner   
+--------+------------------+-------+-----------
+ public | chatroom_members | table | uarukonda
+ public | chatrooms        | table | uarukonda
+ public | messages         | table | uarukonda
+ public | users            | table | uarukonda
+(4 rows)
+
