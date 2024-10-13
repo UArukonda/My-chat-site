@@ -1,6 +1,5 @@
 const messages = [
   {
-    message_id: 1,
     sender_id: 5,
     chatroom_id: 1,
     content: "Hey, are we still meeting today?",
@@ -8,7 +7,6 @@ const messages = [
     read_at: "2024-10-13 08:17:45",
   },
   {
-    message_id: 2,
     sender_id: 12,
     chatroom_id: 1,
     content: "Yes, I'll be there in 10 minutes.",
@@ -16,7 +14,6 @@ const messages = [
     read_at: "2024-10-13 08:17:50",
   },
   {
-    message_id: 3,
     sender_id: 9,
     chatroom_id: 2,
     content: "What time is the meeting tomorrow?",
@@ -24,7 +21,6 @@ const messages = [
     read_at: "2024-10-13 10:00:15",
   },
   {
-    message_id: 4,
     sender_id: 3,
     chatroom_id: 2,
     content: "It's at 11 AM.",
@@ -32,7 +28,6 @@ const messages = [
     read_at: "2024-10-13 10:01:00",
   },
   {
-    message_id: 5,
     sender_id: 15,
     chatroom_id: 3,
     content: "I just sent the files to your email.",
@@ -40,7 +35,6 @@ const messages = [
     read_at: "2024-10-13 11:35:50",
   },
   {
-    message_id: 6,
     sender_id: 8,
     chatroom_id: 3,
     content: "Got them, thanks!",
@@ -48,7 +42,6 @@ const messages = [
     read_at: "2024-10-13 11:37:00",
   },
   {
-    message_id: 7,
     sender_id: 7,
     chatroom_id: 4,
     content: "Can you share the presentation slides?",
@@ -56,7 +49,6 @@ const messages = [
     read_at: "2024-10-13 12:25:20",
   },
   {
-    message_id: 8,
     sender_id: 22,
     chatroom_id: 4,
     content: "Sure, I'll upload them in a minute.",
@@ -64,7 +56,6 @@ const messages = [
     read_at: "2024-10-13 12:26:00",
   },
   {
-    message_id: 9,
     sender_id: 6,
     chatroom_id: 5,
     content: "How did the event go yesterday?",
@@ -72,7 +63,6 @@ const messages = [
     read_at: "2024-10-13 13:05:10",
   },
   {
-    message_id: 10,
     sender_id: 18,
     chatroom_id: 5,
     content: "It went great! Thanks for asking.",
@@ -80,7 +70,6 @@ const messages = [
     read_at: "2024-10-13 13:06:00",
   },
   {
-    message_id: 11,
     sender_id: 10,
     chatroom_id: 6,
     content: "Are we still on for the project discussion?",
@@ -88,7 +77,6 @@ const messages = [
     read_at: "2024-10-13 14:10:15",
   },
   {
-    message_id: 12,
     sender_id: 16,
     chatroom_id: 6,
     content: "Yes, I'll send the meeting link soon.",
@@ -96,7 +84,6 @@ const messages = [
     read_at: "2024-10-13 14:11:00",
   },
   {
-    message_id: 13,
     sender_id: 21,
     chatroom_id: 7,
     content: "Don't forget to bring the documents tomorrow.",
@@ -104,7 +91,6 @@ const messages = [
     read_at: "2024-10-13 15:35:45",
   },
   {
-    message_id: 14,
     sender_id: 4,
     chatroom_id: 7,
     content: "Got it, will do!",
@@ -112,7 +98,6 @@ const messages = [
     read_at: "2024-10-13 15:36:10",
   },
   {
-    message_id: 15,
     sender_id: 13,
     chatroom_id: 8,
     content: "Let's catch up later in the afternoon.",
@@ -120,7 +105,6 @@ const messages = [
     read_at: "2024-10-13 16:05:15",
   },
   {
-    message_id: 16,
     sender_id: 9,
     chatroom_id: 8,
     content: "Sure! I'll be free around 4 PM.",
@@ -128,7 +112,6 @@ const messages = [
     read_at: "2024-10-13 16:06:00",
   },
   {
-    message_id: 17,
     sender_id: 14,
     chatroom_id: 9,
     content: "Did you complete the task?",
@@ -136,7 +119,6 @@ const messages = [
     read_at: "2024-10-13 17:50:20",
   },
   {
-    message_id: 18,
     sender_id: 20,
     chatroom_id: 9,
     content: "Yes, I just submitted it.",
@@ -144,7 +126,6 @@ const messages = [
     read_at: "2024-10-13 17:51:05",
   },
   {
-    message_id: 19,
     sender_id: 19,
     chatroom_id: 10,
     content: "Let's plan the trip for next week.",
@@ -152,7 +133,6 @@ const messages = [
     read_at: "2024-10-13 18:35:15",
   },
   {
-    message_id: 20,
     sender_id: 11,
     chatroom_id: 10,
     content: "Sounds good, I'll check my calendar.",

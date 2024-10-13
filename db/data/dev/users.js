@@ -1,6 +1,5 @@
 const users = [
   {
-    user_id: 1,
     username: "john_doe",
     email: "john@example.com",
     password_hash: "ae2b1fca515949e5d54fb22b8ed95575b86335d6",
@@ -8,7 +7,6 @@ const users = [
     last_login: "2024-10-13 09:00:00",
   },
   {
-    user_id: 2,
     username: "jane_smith",
     email: "jane@example.com",
     password_hash: "a3dcb4d229de6fde0db5686dee47145d4b5c6e6a",
@@ -16,7 +14,6 @@ const users = [
     last_login: "2024-10-12 16:30:00",
   },
   {
-    user_id: 3,
     username: "alex_jones",
     email: "alexj@example.com",
     password_hash: "7c6a180b36896a0a8c02787eeafb0e4c2347e03d",
@@ -24,7 +21,6 @@ const users = [
     last_login: "2024-10-13 11:15:30",
   },
   {
-    user_id: 4,
     username: "emily_clark",
     email: "emilyc@example.com",
     password_hash: "1b6453892473a467d07372d45eb05abc2031647a",
@@ -32,7 +28,6 @@ const users = [
     last_login: "2024-10-13 08:50:10",
   },
   {
-    user_id: 5,
     username: "michael_king",
     email: "michaelk@example.com",
     password_hash: "6dcd4ce23d88e2ee9568ba546c007c63dc902e1f",
@@ -40,7 +35,6 @@ const users = [
     last_login: "2024-10-12 17:20:30",
   },
   {
-    user_id: 6,
     username: "sophia_martin",
     email: "sophia@example.com",
     password_hash: "8d6e8b6de72cf6264a08964eb5b4d2f7d2bc4c82",
@@ -48,7 +42,6 @@ const users = [
     last_login: "2024-10-13 12:15:25",
   },
   {
-    user_id: 7,
     username: "daniel_white",
     email: "danielw@example.com",
     password_hash: "4b227777d4dd1fc61c6f884f48641d02a3c150d0",
@@ -56,7 +49,6 @@ const users = [
     last_login: "2024-10-11 18:20:00",
   },
   {
-    user_id: 8,
     username: "lisa_jones",
     email: "lisaj@example.com",
     password_hash: "3b5d5c3712955042212316173ccf37be8002f305",
@@ -64,7 +56,6 @@ const users = [
     last_login: "2024-10-13 09:45:00",
   },
   {
-    user_id: 9,
     username: "david_smith",
     email: "david@example.com",
     password_hash: "e2c420d928d4bf8ce0ff2ec19b371514f5464b2f",
@@ -72,7 +63,6 @@ const users = [
     last_login: "2024-10-12 19:15:00",
   },
   {
-    user_id: 10,
     username: "olivia_moore",
     email: "oliviam@example.com",
     password_hash: "c9f0f895fb98ab9159f51fd0297e236d04f39d61",
@@ -80,7 +70,6 @@ const users = [
     last_login: "2024-10-12 20:30:25",
   },
   {
-    user_id: 11,
     username: "chris_jackson",
     email: "chrisj@example.com",
     password_hash: "0d61f8370cad1d412f80b84d143e1257b6dbe515",
@@ -88,7 +77,6 @@ const users = [
     last_login: "2024-10-13 10:25:10",
   },
   {
-    user_id: 12,
     username: "lucy_martinez",
     email: "lucym@example.com",
     password_hash: "6c8349cc7260ae62e3b1396831a8398f9da5c27d",
@@ -96,7 +84,6 @@ const users = [
     last_login: "2024-10-12 21:00:20",
   },
   {
-    user_id: 13,
     username: "josh_harris",
     email: "josh@example.com",
     password_hash: "8277e0910d750195b448797616e091ad6473c5d6",
@@ -104,7 +91,6 @@ const users = [
     last_login: "2024-10-13 10:50:30",
   },
   {
-    user_id: 14,
     username: "megan_wilson",
     email: "meganw@example.com",
     password_hash: "ef2d127de37b94226e3ed51d2dc24f74e66d6d4a",
@@ -112,7 +98,6 @@ const users = [
     last_login: "2024-10-12 22:45:00",
   },
   {
-    user_id: 15,
     username: "robert_brown",
     email: "robertb@example.com",
     password_hash: "47bce5c74f589f4867dbd57e9ca9f808403f2555",
@@ -120,7 +105,6 @@ const users = [
     last_login: "2024-10-13 11:15:15",
   },
   {
-    user_id: 16,
     username: "emma_walker",
     email: "emmaw@example.com",
     password_hash: "d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d",
@@ -128,7 +112,6 @@ const users = [
     last_login: "2024-10-13 11:35:45",
   },
   {
-    user_id: 17,
     username: "harry_clark",
     email: "harryc@example.com",
     password_hash: "98f13708210194c475687be6106a3b84ec8530b0",
@@ -136,7 +119,6 @@ const users = [
     last_login: "2024-10-13 12:05:30",
   },
   {
-    user_id: 18,
     username: "isabella_king",
     email: "isabellak@example.com",
     password_hash: "3f79bb7b435b05321651daefd374cd21a4d210b5",
@@ -144,7 +126,6 @@ const users = [
     last_login: "2024-10-12 23:10:25",
   },
   {
-    user_id: 19,
     username: "jacob_miller",
     email: "jacobm@example.com",
     password_hash: "b6d767d2f8ed5d21a44b0e5886680cb9a6cde120",
@@ -152,7 +133,6 @@ const users = [
     last_login: "2024-10-13 12:35:10",
   },
   {
-    user_id: 20,
     username: "mia_evans",
     email: "miae@example.com",
     password_hash: "37693cfc748049e45d87b8c7d8b9aacd1f83a04c",
@@ -160,7 +140,6 @@ const users = [
     last_login: "2024-10-13 12:50:00",
   },
   {
-    user_id: 21,
     username: "ethan_morris",
     email: "ethanm@example.com",
     password_hash: "1f0e3dad99908345f7439f8ffabdffc4",
@@ -168,7 +147,6 @@ const users = [
     last_login: "2024-10-13 13:05:20",
   },
   {
-    user_id: 22,
     username: "ava_wright",
     email: "avaw@example.com",
     password_hash: "98f13708210194c475687be6106a3b84ec8530b0",
@@ -176,7 +154,6 @@ const users = [
     last_login: "2024-10-13 13:20:15",
   },
   {
-    user_id: 23,
     username: "liam_thomas",
     email: "liamt@example.com",
     password_hash: "b6d767d2f8ed5d21a44b0e5886680cb9a6cde120",
@@ -184,7 +161,6 @@ const users = [
     last_login: "2024-10-13 13:35:20",
   },
   {
-    user_id: 24,
     username: "amelia_taylor",
     email: "ameliat@example.com",
     password_hash: "3f79bb7b435b05321651daefd374cd21a4d210b5",
@@ -192,7 +168,6 @@ const users = [
     last_login: "2024-10-13 13:45:40",
   },
   {
-    user_id: 25,
     username: "noah_jones",
     email: "noahj@example.com",
     password_hash: "d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d",
@@ -200,7 +175,6 @@ const users = [
     last_login: "2024-10-13 13:55:45",
   },
   {
-    user_id: 26,
     username: "grace_harris",
     email: "graceh@example.com",
     password_hash: "3b5d5c3712955042212316173ccf37be8002f305",
@@ -208,7 +182,6 @@ const users = [
     last_login: "2024-10-13 13:45:25",
   },
   {
-    user_id: 27,
     username: "james_taylor",
     email: "jamest@example.com",
     password_hash: "8d6e8b6de72cf6264a08964eb5b4d2f7d2bc4c82",
@@ -216,7 +189,6 @@ const users = [
     last_login: "2024-10-13 14:10:10",
   },
   {
-    user_id: 28,
     username: "sofia_bailey",
     email: "sofiab@example.com",
     password_hash: "cfcd208495d565ef66e7dff9f98764da",
@@ -224,7 +196,6 @@ const users = [
     last_login: "2024-10-13 14:00:30",
   },
   {
-    user_id: 29,
     username: "william_clark",
     email: "williamc@example.com",
     password_hash: "d67d8ab4f4c10bf22aa353e27879133c",
@@ -232,7 +203,6 @@ const users = [
     last_login: "2024-10-13 14:05:25",
   },
   {
-    user_id: 30,
     username: "ella_davis",
     email: "ellad@example.com",
     password_hash: "c20ad4d76fe97759aa27a0c99bff6710",
