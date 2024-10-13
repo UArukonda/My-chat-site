@@ -120,3 +120,5 @@
     last_login: "2024-10-13 11:15:15",
   },
 ];
+
+module.exports = users;

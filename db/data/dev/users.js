@@ -1,4 +1,4 @@
-[
+const users = [
   {
     user_id: 1,
     username: "john_doe",
@@ -240,3 +240,5 @@
     last_login: "2024-10-13 14:10:15",
   },
 ];
+
+module.exports = users;
