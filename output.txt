@@ -1,0 +1,2 @@
+You are now connected to database "chatapp_dev_db" as user "uarukonda".
+You are now connected to database "chatapp_test_db" as user "uarukonda".
